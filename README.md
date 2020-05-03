@@ -1,7 +1,10 @@
 # Full-Stack-Interview-Questions
-Interview focused concepts related to OOPS, SQL, C#/.NET, UI and DevOps.
+Interview focused concepts related to OOPS, SQL, C#/.NET, Web API and DevOps.
 
-If one understands the WHY behind those questions, one would never have to worry about WHEN and WHAT. There is no one single right answer to any question. 
+One must understand the WHY behind those questions. 
+In other words, why this question has been asked and what the interviewer is actually looking for?
+
+There is no one single right answer to some of these questions. 
 
 Most questions are asked in an interview to understand the logical reasoning of the candidate. It is to check if a person is able to think hard and can come up with 2-4 solutions of a particular problem.
 
